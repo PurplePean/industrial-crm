@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Trash2, Plus, Edit2, Search, MapPin, DollarSign, TrendingUp } from 'lucide-react';
+import { Trash2, Plus, Edit2, Search } from 'lucide-react';
 
 export default function IndustrialCRM() {
   const [properties, setProperties] = useState([]);
